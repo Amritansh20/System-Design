@@ -32,6 +32,10 @@ higher memory usage
 Slower as log grows
 Not ideal for large scale applications.
 
+- **ow-to-medium traffic** applications
+- **Exact control** over request count
+- When accuracy > performance
+
 
 Time complexity :
     allowUsers -> O(n)
